@@ -1,0 +1,30 @@
+[
+{
+    "category": "Anime",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/anime.json"
+},
+{
+    "category": "DanBooru",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/danbooru.json"
+},
+{
+    "category": "Genshin/Honkai Impact",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/genshin.json"
+  },
+{
+    "category": "Gradients",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/gradients.json"
+  },
+{
+    "category": "League of Legends",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/leagueoflegends.json"
+},
+{
+    "category": "Material",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/material.json"
+},
+{
+    "category": "Realism",
+    "json": "https://raw.githubusercontent.com/ios7jbpro/rewallsweets-dbrepo/main/realism.json"
+}
+]
